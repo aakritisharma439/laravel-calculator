@@ -1,5 +1,5 @@
 {
-    "name": "Indian/calculator",
+    "name": "indian/calculator",
     "description": "This is for test purpose",
     "type": "library",
     "keywords": ["laravel", "package"],
