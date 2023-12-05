@@ -1,6 +1,6 @@
 {
     "name": "germ/calculator",
-    "description": "This is for test purpose",
+    "description": "This is for test purposes",
     "type": "library",
     "keywords": ["laravel", "package"],
     "license": "MIT",
@@ -13,9 +13,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": "*",
+        "php": "*", 
         "illuminate/support": "^8.0",
-        "germ/calculator": "*"
     },
     "autoload": {
         "psr-4": {
@@ -23,4 +22,3 @@
         }
     }
 }
-
