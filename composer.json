@@ -10,9 +10,8 @@
             "email": "aakritisharma439@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
-        "php": "^7.3",
+        "php": "*",
         "illuminate/support": "^8.0",
         "lp/calculator": "1.0.0"
     },
