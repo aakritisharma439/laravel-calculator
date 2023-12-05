@@ -1,5 +1,24 @@
 {
     "name": "lp/calculator",
     "description": "This is for test purpose",
-    "require": {}
+    "type": "library",
+    "keywords": ["laravel", "package"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aakriti Sharma",
+            "email": "aakritisharma439@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.3",
+        "illuminate/support": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Package\\": "src/"
+        }
+    }
 }
+
