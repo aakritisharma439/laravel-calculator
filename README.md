@@ -1,2 +1,2 @@
 # laravel-calculator
-This package make laravel website progressive web application11
+This package make laravel website progressive web application.
