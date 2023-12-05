@@ -1,5 +1,5 @@
 {
-    "name": "packagist/calculator",
+    "name": "laravel-calculator/calculator",
     "description": "This is for test purpose",
     "type": "library",
     "keywords": ["laravel", "package"],
