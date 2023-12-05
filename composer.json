@@ -14,7 +14,7 @@
     "prefer-stable": true,
     "require": {
         "php": "*", 
-        "illuminate/support": "^8.0"
+        "illuminate/support": "*"
     },
     "autoload": {
         "psr-4": {
